@@ -1,5 +1,8 @@
 # grundstuecksinformation-geoserver
 
+DO NOT USE THIS! IN THIS STAGE IT'S NOT REALLY A FUNCTIONAL PART OF grundstuecksinformation.ch.
+
+
 ## Building the image
 ```
 docker build -t sogis/grundstuecksinformation-geoserver:2.16.2 .
